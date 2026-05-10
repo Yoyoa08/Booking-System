@@ -12,5 +12,4 @@ A Python-based technical business solution built with the **Streamlit** framewor
 * **Streamlit**
 
 ## How to Run
-1. Install requirements: `pip install streamlit`
-2. Run the app: `streamlit run main.py`
+ Install requirements: `pip install streamlit`
